@@ -1,5 +1,7 @@
 # Enterprise HR Policy & Employee Support Agentic RAG Copilot
 
+![Agentic RAG HR Policy Copilot](docs/banner.png)
+
 An HR assistant that answers employee questions from private company documents first. It uses web search only when the private documents do not have enough evidence.
 
 The project uses LangGraph, FastAPI, Pinecone, OpenAI, Tavily, and a plain HTML, CSS, and JavaScript user interface.
